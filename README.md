@@ -15,3 +15,5 @@ se calculaba la nomina como si todos fueran empleados genericos.
 Opción B: usé IA como apoyo
 Para momentos en que por ejemplo no podia conectar bien las clases, y para explicaciones sobre el uso de virtual y override, y errores de compilación
 que resultaban en puntos y coma faltantes, mayusculas/minusculas mal puestas en las clases.
+
+Ademas para crear el gitignore
