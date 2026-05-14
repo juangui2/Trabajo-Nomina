@@ -1,3 +1,6 @@
-*
-!.gitignore
-!mi-archivo.py
+.env
+*.log
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db

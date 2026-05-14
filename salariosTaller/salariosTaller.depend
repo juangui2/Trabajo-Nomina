@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1778723534 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+
+1778723521 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\empleado.h
+	<string>
+
+1778723563 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\junior.cpp
+	"Junior.h"
+
+1778723546 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\junior.h
+	"Empleado.h"
+
+1778591495 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\main.cpp
+	<iostream>
+	"gestionNomina.h"
+
+1778591466 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\gestionnomina.h
+	<iostream>
+	<string>
+	<vector>
+	"junior.h"
+	"senior.h"
+	"liderTecnico.h"
+	"tester.h"
+
+1778723573 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\senior.h
+	"Empleado.h"
+
+1778723594 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\lidertecnico.h
+	"Empleado.h"
+
+1778723611 c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\include\tester.h
+	"Empleado.h"
+
+1778591503 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\gestionnomina.cpp
+	"gestionNomina.h"
+
+1778723603 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\lidertecnico.cpp
+	"LiderTecnico.h"
+
+1778723584 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\senior.cpp
+	"Senior.h"
+
+1778723619 source:c:\users\juan\onedrive\desktop\tallersalarios\salariostaller\src\tester.cpp
+	"Tester.h"
+
